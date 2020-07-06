@@ -1,0 +1,7 @@
+
+.data .editable-range {
+	min-height: 300px !important;
+}
+.data .editor-textarea {
+	min-height: 300px !important;
+}

@@ -1,0 +1,14 @@
+#dashboard_title_1 {
+	text-align: center;
+}
+#dashboard_viewtable {
+    width: 75%;
+    color: #999;
+}
+#dashboard_viewtable .viewtable_title {
+	width: 30%;
+	height: 30px;
+	text-align: right;
+	padding-right: 40px;
+	color: #333;
+}

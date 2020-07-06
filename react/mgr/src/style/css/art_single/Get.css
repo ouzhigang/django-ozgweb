@@ -1,0 +1,12 @@
+
+.art-single .editable-range {
+	min-height: 300px !important;
+}
+.art-single .editor-textarea {
+	min-height: 300px !important;
+}
+
+.art-single2 {
+	padding-top: 15px;
+	text-align: center;
+}
